@@ -1,4 +1,4 @@
-module github.com/Chheung/tron-wallet-generator
+module Chheung/tron-wallet-generator
 
 go 1.21.4
 
